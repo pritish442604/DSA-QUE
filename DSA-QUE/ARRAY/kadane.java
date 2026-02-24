@@ -18,5 +18,6 @@ public class kadane {
         }
 
         System.out.println("Maximum Sum: " + max);
+        
     }
 }
