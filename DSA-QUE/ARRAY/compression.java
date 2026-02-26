@@ -17,5 +17,6 @@ public class compression {
         }
         
         System.out.println(result.toString());
+        
     }
 }
