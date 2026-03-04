@@ -6,7 +6,7 @@ public class MinimumWindowSubstring {
 
         int[] freq = new int[128];
 
-        // t ka frequency store karo
+        // t ka frequency store karo 
         for (char c : t.toCharArray()) {
             freq[c]++;
         }
