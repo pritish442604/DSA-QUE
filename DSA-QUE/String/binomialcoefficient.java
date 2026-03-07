@@ -18,7 +18,7 @@ public class binomialcoefficient {
     }
     public static void main(String args[]) {
         System.out.println(bincoeff(5,2));
-        
+        //System.out.println(factorial(5));
     }
 }
 
